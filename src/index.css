@@ -1,5 +1,12 @@
 @import "tailwindcss";
 
+@theme {
+  --color-brand-darkblue: #2B3E4C;
+  --color-brand-midblue: #87B867;
+  --color-brand-cream: #FFE9BB;
+  --color-brand-red: #FF6B75;
+  --color-brand-orange: #FFA726;
+}
 
 /* Tus estilos personalizados */
 ::-webkit-scrollbar { 
