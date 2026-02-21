@@ -1,6 +1,10 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import "tailwindcss";
+
+/* El resto de tus estilos personalizados se mantiene igual */
+::-webkit-scrollbar { 
+  width: 6px; 
+  height: 6px; 
+}
 
 /* Tus estilos personalizados */
 ::-webkit-scrollbar { 
